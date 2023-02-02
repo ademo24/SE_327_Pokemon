@@ -1,0 +1,7 @@
+README:
+This assaignment had a lot of options on how we wanted to finish the game so thiese are the things I added.
+First off You can now level up pokemon over time and this will happen automatically and it will tell you when this happens and xp is given out after defeating other pokemon.
+You get cash from defeating trainers and you can buy pokeballs, potions and revives at the store
+You can see your catalog of pokemon in the pokecenter, this deosn't include the pokemon that you already have battling with you
+You can switch pokemon in the center as well from your catalog to your 6 starting pokemon
+Types now work and they have the 'correct' multipliers when in battle, quotes because I looked them up online so not sure if it's actually correct, it also doesn't say anything when this happens it's just implied based on the damage done. Also I'll fix this later but currently the pokemon types are random and not generated in which isn't a big deal to me because I never played the game so hopefully a water type charizard doesn't offend you too much. I am sorry in advance I will be fixing that soon
